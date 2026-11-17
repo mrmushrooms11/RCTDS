@@ -9,6 +9,8 @@ A dual-screen Android port of the classic **RollerCoaster Tycoon**, designed spe
 
 Built around the OpenRCT2 engine, this project reimagines the original RollerCoaster Tycoon experience for a dual-screen device, retaining the charm, visuals and gameplay of the PC classic whilst introducing a dedicated touch-friendly interface and native handheld controls.
 
+https://github.com/mrmushrooms11/RCTDS/releases/tag/RCTDS0.13
+
 ### 🎮 Key Features
 
 - **True Dual-Screen Gameplay:** Your theme park occupies the upper display, whilst menus, construction tools and management interfaces live on the lower touchscreen.
